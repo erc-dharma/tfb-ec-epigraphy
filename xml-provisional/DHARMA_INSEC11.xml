@@ -11,7 +11,9 @@
             <editionStmt>
                 <edition>DHARMA, ERC grant agreement n° 809994</edition>
                 <respStmt>
-                    <name>Emmanuel Francis (cPI of DHARMA)</name>
+                    <persName ref="part:emfr">
+                        <forename>Emmanuel</forename>
+                        <surname>Francis</surname></persName>
                     <resp>Semantic Styling</resp>
                 </respStmt>
                 <respStmt>
