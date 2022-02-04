@@ -134,7 +134,7 @@
     for (let file of data) {
       const fileName = file.path.replace('.md', '');
       let re = /[\w]+\/[a-z]+\_[0-9]([0-9][0-9])\_([0-9]+[0-9\-]*)/
-      var fileDisplayName = fileName.split(' ').join(' ').replace('.html', '');
+      var fileDisplayName = fileName.split(' ').join(' ').replace('worklfow-ouput/DHARMA_INSEC', 'EC vol.').replace('.html', '');
       htmlString += `<li class="list-group-item"><a href="${fileName}">${fileDisplayName}</a></li>`;
     }
     document.getElementById('list').innerHTML = htmlString;
