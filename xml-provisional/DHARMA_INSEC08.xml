@@ -7,9 +7,6 @@
                 <title type="sub"
                     >Digitized version, Text of the Inscriptions in Roman characters [380 pp.] only.</title>
                 <author>B. Lewis Rice</author>
-            </titleStmt>
-            <editionStmt>
-                <edition>DHARMA, ERC grant agreement n° 809994</edition>
                 <respStmt>
                     <persName ref="part:emfr">
                         <forename>Emmanuel</forename>
@@ -20,7 +17,7 @@
                     <name>Word Pro</name>
                     <resp>Digitization and TEI encoding</resp>
                 </respStmt>
-            </editionStmt>
+            </titleStmt>
             <publicationStmt>
                 <authority>DHARMA</authority>
                 <pubPlace><!-- Fill in here the place or places where the encoding has been done --></pubPlace>
