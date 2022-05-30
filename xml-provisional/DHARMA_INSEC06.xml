@@ -37,13 +37,13 @@
             </publicationStmt>  
             <sourceDesc>
                 <bibl> <author>B. Lewis Rice</author>,
-<title type="main">Epigraphia Carnatica vol. VI</title>,
-<title type="sub">Inscriptions in the Kadur District</title>,
-<title type="sub">Mysore Archaeological Series</title>,
-<pubPlace>Bangalore</pubPlace>,
-<publisher>Mysore Government Central Press</publisher>,
-<date>1901</date>, <biblScope>901 p</biblScope>.
-</bibl>
+                    <title type="main">Epigraphia Carnatica vol. VI</title>,
+                    <title type="sub">Inscriptions in the Kadur District</title>,
+                    <title type="sub">Mysore Archaeological Series</title>,
+                    <pubPlace>Bangalore</pubPlace>,
+                    <publisher>Mysore Government Central Press</publisher>,
+                    <date>1901</date>, <biblScope>901 p</biblScope>.
+                </bibl>
             </sourceDesc>
         </fileDesc>
         <profileDesc>
@@ -2065,7 +2065,7 @@ Chauḍamma temple.</hi></head>
 
                             <lb/>Bîra-Gavuṇḍa Mâḷa-Gâvuṇḍanu svarggastar âdalli Sôma-Dêvana maga Chika-Mada-Jîyage Mâchêśvara-
 
-                            <lb/>dêvara munde dhârâ-pûrvvaka mâḍi biṭṭa datti Karaḍiya-<w>Ker̤eya</w> hinde gaṃ .............. bhûmiy
+                            <lb/>dêvara munde dhârâ-pûrvvaka mâḍi biṭṭa datti Karaḍiya-<unclear>Ker̤eya</unclear> hinde gaṃ .............. bhûmiy
 
                             <lb/>oḷege beddale koḷaga hattu | Bâya-Nâ[ya]kitiyaru aḷiya Hasalâ .. koṭṭa datti koḷaga hattu Buveyana-
 
@@ -4285,7 +4285,7 @@ Kapine-Gauḍa’s field.</hi></head>
                             <l>daṃ tâṃ koṭṭa phaḷaṃ mahâ-dvijarge bhâsvad-gô-sahasraṅgaḷaṃ ǁ</l>
                             <l>Gaṅgâ-Yamunegaḷ eraḍar̤a | saṅgamadoḷ agaṇya-puṇya-vara-tîrtha-sthâ- |</l>
                             <l>naṅgaḷoḷ irdda tapôdhana- | raṃ gô-brâhmaṇaran aḷidan int idan aḷidaṃ ǁ</l>
-                            <l><w>(<hi rend="it">usual final verses</hi>)</w></l>
+                            <l><unclear>(<hi rend="it">usual final verses</hi>)</unclear></l>
                             </lg> </quote>
                     </div>
                     <div type="section">
@@ -5005,7 +5005,7 @@ Kapine-Gauḍa’s field.</hi></head>
                             <lb/>bhôga-nandâ-dîvige-nivêdyakkaṃ maṭha-patigaḷ-âhâra-dânakkaṃ sarvva-bâdhâ-parihârav âgi biṭṭa
 
                             <lb/>datti (8 <hi rend="it"
-                            >lines following contain details of the gift and usual final phrases, <w>&amp;c.</w></hi>)</p>
+                            >lines following contain details of the gift and usual final phrases, <unclear>&amp;c.</unclear></hi>)</p>
                     </div>
                     <div type="section">
                         <head>118
@@ -5247,7 +5247,7 @@ Kapine-Gauḍa’s field.</hi></head>
                             <lb/> <hi rend="it">In the same temple, west of the doorway.</hi></head>
                         <p>
                             <lb/>(<hi rend="it"
-                            >The beginning is gone</hi>)<note><p>* <w>The 2nd &amp; 3rd feet of this verse are gone in the original.</w></p></note> Ballâḷa-nṛipaṃ ................ śrî-Narasiṃhaṃ sutaṃ jagad-vikhyâtaṃ |</p>
+                            >The beginning is gone</hi>)<note><p>* <unclear>The 2nd &amp; 3rd feet of this verse are gone in the original.</unclear></p></note> Ballâḷa-nṛipaṃ ................ śrî-Narasiṃhaṃ sutaṃ jagad-vikhyâtaṃ |</p>
                         <quote> <lg>
                             <l>Narasiṃhaṅgaṃ Kâḷale- | y-arasige śrî-vîra-Sôyi-Dêva tanûjaṃ |</l>
                             <l>Hara puṭṭuvante puṭṭiye | dhareyaṃ pârvvaruvan eyde pratipâḷisidaṃ ǁ</l>
@@ -9466,7 +9466,7 @@ Kapine-Gauḍa’s field.</hi></head>
 
                             <lb/>lôkake hor̤agu Puṭapayiyana baraha Machagauḍanahaḷiya Udôja hoyi[da] sâsana .. Kârtika-pûjige
 
-                            <lb/>dêvara banada hittila .... ya ter̤ige <w>σ</w> 4 haṇunu ko .. âvan oba tapidar̤u avana mane ....</p>
+                            <lb/>dêvara banada hittila .... ya ter̤ige <unclear>σ</unclear> 4 haṇunu ko .. âvan oba tapidar̤u avana mane ....</p>
                     </div>
                     <div type="section">
                         <head>102
@@ -11245,7 +11245,7 @@ Kapine-Gauḍa’s field.</hi></head>
                             <lb/> <hi rend="it"
                             >At Nandipura (same hobli), on a vîrakal at suggimande.</hi></head>
                         <p>
-                            <lb/><w>Śrî</w></p>
+                            <lb/><unclear>Śrî</unclear></p>
                         <quote> <lg>
                             <l>namas tuṅga &amp;c. ǁ</l>
                             </lg> </quote>
@@ -11311,7 +11311,7 @@ Kapine-Gauḍa’s field.</hi></head>
                             <lb/> <hi rend="it"
                             >At the same village, on a stone in front of the Bîrê-Dêva temple.</hi></head>
                         <p>
-                            <lb/><w>Śrî</w></p>
+                            <lb/><unclear>Śrî</unclear></p>
                         <quote> <lg>
                             <l>namas tuṅga &amp;c. ǁ</l>
                             </lg> </quote>
@@ -11441,7 +11441,7 @@ Kapine-Gauḍa’s field.</hi></head>
                             >th stone.</hi></head>
                         <p>
                             <lb/>(<hi rend="it"
-                            >Upper portion gone</hi>) Sosevura <w>seṭṭigaḷa</w> Lôkajitanige nishidhiya kalla nakhara-samûha naṭṭaru</p>
+                            >Upper portion gone</hi>) Sosevura <unclear>seṭṭigaḷa</unclear> Lôkajitanige nishidhiya kalla nakhara-samûha naṭṭaru</p>
                     </div>
                     <div type="section">
                         <head>17
@@ -11450,7 +11450,7 @@ Kapine-Gauḍa’s field.</hi></head>
                             <lb/>.......................... Vinayâditya .......... Poysaḷa ...... bhaṭṭâra gurugaḷaṃ ..</p>
                         <quote> <lg>
                             <l>Saka-kâḷaṇ gati-nâga-randhra-Subhakṛit-saṃvatsar-Âśâḍadoḷ |</l>
-                            <l><w>sukaraṃ</w> paurṇṇami-Bhaumavâram osed iḷd-â-Śrâvaṇa ....</l>
+                            <l><unclear>sukaraṃ</unclear> paurṇṇami-Bhaumavâram osed iḷd-â-Śrâvaṇa ....</l>
                             <l>.. kadindaṃ bare Śânti-Dêvar-amaḷar sanyâsanaṃ geydu bhak- |</l>
                             <l>ti karaṃ kai-vaśam âge geydu paḍedar nirvvâṇa-sâmrâjyamaṃ ǁ</l>
                             </lg> </quote>
@@ -11698,7 +11698,7 @@ Kapine-Gauḍa’s field.</hi></head>
                             <lb/> <hi rend="it"
                             >At Dêvavṛinda (same hobli), on a stone at the base of the garuḍa-kaṃbha of the Râmêśvara temple.</hi></head>
                         <p>
-                            <lb/><w>Śrî</w></p>
+                            <lb/><unclear>Śrî</unclear></p>
                         <quote> <lg>
                             <l>namas tuṅga &amp;c. ǁ</l>
                             </lg> <lg>
@@ -12368,7 +12368,7 @@ Kapine-Gauḍa’s field.</hi></head>
 
                             <lb/>nâtha-dêvarige â-chandrârkkav âgi aṃrita-paḍige prati-dina 1 kkaṃ sê 1 akkiya-naivêdyake koṭṭa
 
-                            <lb/>bîja-honnu ga 7 <w>‘</w> 5 aksharadalu-yêḷu-honnû ayidu-haṇa yi-honnanu arasugaḷu grâma-hebbârvakkaḷa
+                            <lb/>bîja-honnu ga 7 <unclear>‘</unclear> 5 aksharadalu-yêḷu-honnû ayidu-haṇa yi-honnanu arasugaḷu grâma-hebbârvakkaḷa
 
                             <lb/>mukhadalu Nâraṇadhikâriya makka[ḷu] Śaṅkaradhikâri kaḍaṃ-goṇḍu Kaḷaśadalû tanna tande mâr̤i-
 
@@ -12411,7 +12411,7 @@ Kapine-Gauḍa’s field.</hi></head>
 
                             <lb/>heggaḍe tanna prasta-nimityav âgi kuḷakke tegadu-kkoṇḍu tanna mûlada bhûmi hakkala-kummari-
 
-                            <lb/>yalli kâra-gadde gaṇṇagaḷû saha bijavari sa 3 <w>‘</w> 2 haḷa viṭhadâ .. ya dâriya baḷiya Abbihaḷi gaṇṇa
+                            <lb/>yalli kâra-gadde gaṇṇagaḷû saha bijavari sa 3 <unclear>‘</unclear> 2 haḷa viṭhadâ .. ya dâriya baḷiya Abbihaḷi gaṇṇa
 
                             <lb/>saha sa 1 ma .. kayyamêlu .. sa 2 antu bîjavari sa 6 ........</p>
                     </div>
@@ -12477,7 +12477,7 @@ Kapine-Gauḍa’s field.</hi></head>
                             <lb/>ôgarada naivêdyake prati-dinadalu .. mâle 1 prati-pakshadalu pradôsha-pûjeya naivêdya ........
 
                             <lb/>dalu obba-brâhmaṇana uṇṭake saha koṭṭa bîja-honnu (15 <hi rend="it"
-                            >lines effaced</hi>) honnu ga 2 <w>‘</w> 5 â-honna Kêśa-
+                            >lines effaced</hi>) honnu ga 2 <unclear>‘</unclear> 5 â-honna Kêśa-
 
                             <lb/>vanu mâr̤ikoṇḍa .... Dêvaṇṇagaḷa bage .... śvara-Dêvaṇṇaṅgaḷa paḍuva-takkilalû kâra-gadde ......
 
@@ -13006,7 +13006,7 @@ Kapine-Gauḍa’s field.</hi></head>
 
                             <lb/>hânna-bhûmiyanu Kṛishṇârpaṇav âgi pâlisikoṇḍ idhêve yî-dharmavanû sâṅgav âgi naḍasikoṇḍu bâhudu
 
-                            <lb/>yendu barasi-koṭṭa śâsana <w>śrî</w>-Vêṅkaṭâdri</p>
+                            <lb/>yendu barasi-koṭṭa śâsana <unclear>śrî</unclear>-Vêṅkaṭâdri</p>
                     </div>
                     <div type="section">
                         <head>85
@@ -13927,7 +13927,7 @@ Kapine-Gauḍa’s field.</hi></head>
 
                             <lb/>er̤adu koṭṭu î-bhûmige prati-varshavu Śivarâtriya 1 kke tettu-baha-hâṅge nîvu kaṭṭi-koṇḍa kaṭṭu-
 
-                            <lb/>gaḍi ga 5 <w>‘</w> 4 aksharadalu ayidu-honnu nâlku-haṇavanu koṭṭu bahiri id-allade mêle aḷivu anyâya ên-
+                            <lb/>gaḍi ga 5 <unclear>‘</unclear> 4 aksharadalu ayidu-honnu nâlku-haṇavanu koṭṭu bahiri id-allade mêle aḷivu anyâya ên-
 
                             <lb/>ondu bandarênu nâvu nâḍavarê êrpaṭṭu-koṇḍu tettu nivage sarvamânyav âgi pâlisi bahevu nimma
 
@@ -14117,7 +14117,7 @@ Kapine-Gauḍa’s field.</hi></head>
 
                             <lb/>krayava koṇḍa Kummarikôḍina bhûmiya bîjavari khaṃ 10 kkaṃ baha gaḍiya-bhatta-grâma khaṃ 30
 
-                            <lb/>Sântaḷigey-oḷagaṇa keḷa-bhâgada <w>nâḍavarinda</w> Gaṅgaṇṇa-sênabôvarige dânav âgi bandu avara makkaḷu
+                            <lb/>Sântaḷigey-oḷagaṇa keḷa-bhâgada <unclear>nâḍavarinda</unclear> Gaṅgaṇṇa-sênabôvarige dânav âgi bandu avara makkaḷu
 
                             <lb/>Narahari-sênabôvara kaiyalu embhatta-eṇṭu-honnige krayav âgi koṇḍa Chikka-Hoḷalûru-grâmada Keḷa-
 
@@ -14284,7 +14284,7 @@ Kapine-Gauḍa’s field.</hi></head>
 
                             <lb/>paravariye bhattamuṃ kavileya pâluṃ el̤tum .... dêvândêvana parijanam all âḍe pel̤an orvan âru
 
-                            <lb/>muṇḍo meṇḍukam int uṇṇôrum uṇiya koḍuvônum dêveḍittiyerindum <w>sâerindum</w> abharam etti âyatie
+                            <lb/>muṇḍo meṇḍukam int uṇṇôrum uṇiya koḍuvônum dêveḍittiyerindum <unclear>sâerindum</unclear> abharam etti âyatie
 
                             <lb/>koḷvôrum mûvettûrâ mîsel miḍeyum pogevôgi koḷvôruṃ koṇḍu uṇvôrum | pañcha-mahâ-pâtaka-saṃyuk-
 
@@ -14419,9 +14419,9 @@ Kapine-Gauḍa’s field.</hi></head>
 
                             <lb/>tsaradallû kraya ga 458½ 2½ 0 vannû aramanege tegadukkoṇḍu yî-sîme-Keḷaûra-pâla Keḷaüra-grâma-
 
-                            <lb/>dinda sistininda ga 38 <w>‘</w> . 0 prâku nillista naṭṭadinda ga 5 <w>‘</w> 1 ¼ 0 ubhayaṃ ga 43 <w>‘</w> ½ 0 dêvastânada
+                            <lb/>dinda sistininda ga 38 <unclear>‘</unclear> . 0 prâku nillista naṭṭadinda ga 5 <unclear>‘</unclear> 1 ¼ 0 ubhayaṃ ga 43 <unclear>‘</unclear> ½ 0 dêvastânada
 
-                            <lb/>migitteyinda Aṅgaḍi Vîrabhadra-dêvara migiteyinda ga 2 <w>‘</w> 3 ¾ 0 ubhayaṃ 45 <w>‘</w> ½ 3¾ da svâstinu
+                            <lb/>migitteyinda Aṅgaḍi Vîrabhadra-dêvara migiteyinda ga 2 <unclear>‘</unclear> 3 ¾ 0 ubhayaṃ 45 <unclear>‘</unclear> ½ 3¾ da svâstinu
 
                             <lb/>uttârava koṭṭu | linga-mudrâ-śilâ-stâpitava mâḍisikoḍuva-hâge nirûpav âgi naḍaütâde śilâ-stâpitav âha-
 
@@ -15585,7 +15585,7 @@ Kapine-Gauḍa’s field.</hi></head>
 
                             <lb/>sâkshigaḷu Siṅgêriya Vidyâraṇyapurada mahâjanaṅgaḷu int ivar-ubhayânumatadiṃ .... sênabôvara
 
-                            <lb/>mommaga Chaüḍappagaḷa su-ha[sta]da baraha â-<w>kartṛi</w>-purôhitara su-ha[sta]da oppa sri-Mahâ-Laksh-
+                            <lb/>mommaga Chaüḍappagaḷa su-ha[sta]da baraha â-<unclear>kartṛi</unclear>-purôhitara su-ha[sta]da oppa sri-Mahâ-Laksh-
 
                             <lb/>mî sâkshigala oppa śrî-Vidyâsaṅkara-dêvaru (<hi rend="it"
                             >usual final verse</hi>)</p>
@@ -15818,7 +15818,7 @@ Kapine-Gauḍa’s field.</hi></head>
                             <lb/>suṅka saha sarvamânyav âgi anubhavisikoṇḍu âdhi-kraya-dâna-parivartanigû salisikoṇḍu bandu
 
                             <lb/>bahirî yandu barada dharma-śâsana (<hi rend="it"
-                            >usual final verses</hi>) <w>śrî</w>-Vidyâśaṅkara.</p>
+                            >usual final verses</hi>) <unclear>śrî</unclear>-Vidyâśaṅkara.</p>
                     </div>
                     <div type="section">
                         <head>13
@@ -15935,11 +15935,11 @@ Kapine-Gauḍa’s field.</hi></head>
 
                             <lb/>vatsarada Jyêshṭha-śuddha 10 llu śrîmat-parama-haṃsa-parivrâjakâchârya-varya pada-vâkya-pra-
 
-                            <lb/>mâṇa-pârâvâra-<w>pârîṇa</w> yama-niyamâdy-ashṭâṅga-yôga-niratar âda Śṛiṅgêriya Abhinava-Narasiṃha-
+                            <lb/>mâṇa-pârâvâra-<unclear>pârîṇa</unclear> yama-niyamâdy-ashṭâṅga-yôga-niratar âda Śṛiṅgêriya Abhinava-Narasiṃha-
 
-                            <lb/>Bhârati-<w>svâmigaḷavara</w> śishyaru śrî-Sachchidânanda-Bhârati-svâmigaḷavaru nânâ-gôtrada nânâ-sûtra-
+                            <lb/>Bhârati-<unclear>svâmigaḷavara</unclear> śishyaru śrî-Sachchidânanda-Bhârati-svâmigaḷavaru nânâ-gôtrada nânâ-sûtra-
 
-                            <lb/>da <w>Narasiṃhapura-la</w> mahâjanagaḷige pâlista sarvamânyâgrahârada dharma-śâsanada kramav ent
+                            <lb/>da <unclear>Narasiṃhapura-la</unclear> mahâjanagaḷige pâlista sarvamânyâgrahârada dharma-śâsanada kramav ent
 
                             <lb/>endare prâg Vishu-saṃvatsarada Kârttika-śuddha Utthâna-dvâdaśî-puṇya-kâladalli namma śrî-guru-
 
@@ -16200,7 +16200,7 @@ Kapine-Gauḍa’s field.</hi></head>
 
                             <lb/>yama-niyamâdy-ashṭâṅga-yôga-niratar âda śrîmad-râjâdhirâja-pûjita-pâda-padmanâda śrîmad-viśuddhâ-
 
-                            <lb/>dvaita-siddhânta-<w>pratishṭhâpanâchâryar</w> âda śrîmad-Vidyâraṇya-svâmigaḷavara | aramparâ-śishyar âda
+                            <lb/>dvaita-siddhânta-<unclear>pratishṭhâpanâchâryar</unclear> âda śrîmad-Vidyâraṇya-svâmigaḷavara | aramparâ-śishyar âda
 
                             <lb/>Abhinava-Narasiṃha-Bhâratî-svâmigaḷavara kara kamala-sañjâtar âda śrî-Sachchidânanda-Bhâratî-
 
@@ -17452,7 +17452,7 @@ Kapine-Gauḍa’s field.</hi></head>
 
                             <lb/>yôgya-sarvamânyavâgi śrî-Râmachandra-dêvara prîtiyâgi namma Hire-Hanumappa-Nâyakarige puṇya-
 
-                            <lb/>lôkâvâptiy âgabêk endu Râmârpaṇava mâḍikoṭṭu | dâna-paṭṭênu baras <w>kôṭṭu</w> sârôddhâravâgi naḍadu-
+                            <lb/>lôkâvâptiy âgabêk endu Râmârpaṇava mâḍikoṭṭu | dâna-paṭṭênu baras <unclear>kôṭṭu</unclear> sârôddhâravâgi naḍadu-
 
                             <lb/>barut-iddalli | â-dâna-paṭṭêyu sithilav âda sambandha śrîmat-Santhê-Bennûra Pûvvaḷa Iimmaḍi-Hanu-
 
@@ -19409,7 +19409,7 @@ Kapine-Gauḍa’s field.</hi></head>
                             <lb/> <hi rend="it"
                             >At Kâraṇagaṭṭa (same hobli), on a stone near the Mallêśvara temple.</hi></head>
                         <p>
-                            <lb/><w>śrî</w></p>
+                            <lb/><unclear>śrî</unclear></p>
                         <quote> <lg>
                             <l>namas tuṅga &amp;c. ǁ</l>
                             </lg> <lg>
